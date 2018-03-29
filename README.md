@@ -32,6 +32,6 @@ $ ng serve --open
 ```
 Here you get yourwebapp is up and running. you can check on localhost:4200
 
-###  H2 Database Console
+H2 Database Console:
 
 In this application in memory H2 database used. Once your application is up and running you can access H2 DB console using [localhost:8080/h2-console]
